@@ -31,16 +31,19 @@
 - SAP ABAP
 - TypeScript
 - Express.js
-- Desenvolvimento de jogos com Phaser
+- Desenvolvimento de jogos
+- Desenvolvimento Web
 
 ---
 
 ## 📫 Como me encontrar
 
-- 📧 brunonascimentocosta@gmail.com
+- 📧 brunobass@live.com
 - 💼 [GitHub](https://github.com/BrunoNascimentCosta)
+-  [LinkedIn](https://www.linkedin.com/in/bruno-nascimento-154a601a6/)  
+
 
 ---
 
-> “Crônicas de Hell4ife” não é só um projeto — é uma experiência.  
+> “Crônicas de Hellfife” não é só um projeto — é uma experiência.  
 > Cada linha de código é uma página escrita no terminal da imaginação.
